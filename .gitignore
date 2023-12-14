@@ -28,3 +28,4 @@ backend/out/
 
 ### VS Code ###
 .vscode/
+*.jar
