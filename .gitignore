@@ -16,6 +16,7 @@ jpashop/.sts4-cache
 jpashop/bin/
 !jpashop/**/src/main/**/bin/
 !jpashop/**/src/test/**/bin/
+*.zip
 
 ### IntelliJ IDEA ###
 .idea
