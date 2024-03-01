@@ -1,6 +1,6 @@
 jpashop/HELP.md
 jpashop/.gradle
-jpashop/**/build/
+jpashop/build/
 !jpashop/gradle/wrapper/gradle-wrapper.jar
 !jpashop/**/src/main/**/build/
 !jpashop/**/src/test/**/build/
